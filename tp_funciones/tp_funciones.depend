@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710212757 source:c:\users\arias\onedrive\escritorio\uni\nuevostps\tp_funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
